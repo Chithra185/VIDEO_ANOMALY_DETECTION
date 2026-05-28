@@ -1,0 +1,5 @@
+*.pt
+runs/
+__pycache__/
+*.db
+.vscode/
